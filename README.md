@@ -16,7 +16,7 @@
 
 ## Hero Icons
 
-    npm install heroicons
+    npm i @heroicons/react
 
 ## Daisy Ui
 
