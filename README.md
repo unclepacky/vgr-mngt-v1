@@ -14,6 +14,10 @@
 
     npm i react-icons
 
+## Hero Icons
+
+    npm install heroicons
+
 ## Daisy Ui
 
     npm i -D daisyui@latest
